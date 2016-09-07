@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+body {
+  color: #0d1321;
+  background: #fcfcfc;
+  font-family: "Source Sans Pro", sans-serif; }
+
+p, body, a, b,
+strong, i,
+em {
+  font-size: 16px; }
+
+a {
+  color: #ef476f;
+  text-decoration: none; }
+
+b,
+strong {
+  font-weight: 700; }
+
+i,
+em {
+  font-style: italic; }
+
+div.wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  min-height: 100%; }
+
+div.container {
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 920px;
+  min-width: 660px; }
+
+/*# sourceMappingURL=base.css.map */

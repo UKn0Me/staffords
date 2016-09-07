@@ -1,0 +1,20 @@
+@import "palette", "fonts";
+
+footer {
+    height: 53px;
+    display: block;
+    color: $light;
+    background: $dark;
+
+    nav.footer-menu {
+        ul {
+            padding: 0;
+            list-style-type: none;
+
+            li {
+                margin: 0 10px;
+                display: inline-block;
+            }
+        }
+    }
+}

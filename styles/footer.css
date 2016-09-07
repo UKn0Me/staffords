@@ -1,0 +1,13 @@
+footer {
+  height: 53px;
+  display: block;
+  color: #fcfcfc;
+  background: #0d1321; }
+  footer nav.footer-menu ul {
+    padding: 0;
+    list-style-type: none; }
+    footer nav.footer-menu ul li {
+      margin: 0 10px;
+      display: inline-block; }
+
+/*# sourceMappingURL=footer.css.map */
